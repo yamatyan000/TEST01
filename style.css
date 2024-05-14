@@ -1,0 +1,17 @@
+BODY{
+  background-image : url(back.png);
+  background-repeat : repeat-y;
+}
+H1{
+  font-size : 320%;
+  background-color : #ffcc66;
+}
+H2{
+  text-align : center;
+  background-color : #66cc99;
+}
+OL{
+  font-style : italic;
+  font-size : 120%;
+  color : #cc6600;
+}
